@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">A thousand courses</string>
+    <string name="home_text">Главная</string>
+    <string name="favorite_text">Избранное</string>
+    <string name="account_text">Аккаунт</string>
+    <string name="login_text">Вход</string>
+    <string name="email_text">Email</string>
+    <string name="password_text">Пароль</string>
+    <string name="example_gmail_com">example@gmail.com</string>
+    <string name="password_edit_text">Введите пароль</string>
+    <string name="login_question_text">Нет аккаунта?</string>
+    <string name="regidter_text">Регистрация</string>
+    <string name="forgot_password_text">Забыли пароль</string>
+    <string name="login">Вход</string>
+    <string name="error">Ошибка соединения</string>
+    <string name="about_course">О курсе</string>
+    <string name="go_in_web">Перейти на платформу</string>
+    <string name="start_course">Начать курс</string>
+    <string name="faborite_label">Избранное</string>
+    <string name="nothing_to_show">Тут ничего нет</string>
+    <string name="profile_label">Профиль</string>
+    <string name="course_label">Ваши курсы</string>
+</resources>
